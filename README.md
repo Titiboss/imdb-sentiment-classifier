@@ -24,7 +24,8 @@ Il inclut une interface interactive développée avec **Streamlit** pour explore
 - Deep Neural Network (DNN) optimisé
 
 ---
-
+```bash
+.
 ## 🗂️ Structure du projet
 ├── main.py # Interface principale Streamlit
 ├── optimize_dnn.py # Optimisation d’un DNN avec GridSearchCV
