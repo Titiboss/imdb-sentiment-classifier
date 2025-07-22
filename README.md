@@ -25,7 +25,6 @@ Il inclut une interface interactive développée avec **Streamlit** pour explore
 
 ---
 ```bash
-.
 ## 🗂️ Structure du projet
 ├── main.py # Interface principale Streamlit
 ├── optimize_dnn.py # Optimisation d’un DNN avec GridSearchCV
